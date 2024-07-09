@@ -1,1 +1,1 @@
-let b = 3;
+let navigationBarHeight = 3;
