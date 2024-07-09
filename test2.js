@@ -1,0 +1,1 @@
+let navigationBarHeight = 3;
